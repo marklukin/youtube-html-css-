@@ -164,4 +164,5 @@
 .current-user-picture {
     height: 32px;
     border-radius: 16px;
+    cursor: pointer;
 }
